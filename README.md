@@ -1,8 +1,8 @@
 **askphotos.earth** is an initiative in its early stages of development.
 
-* **Instructions:** You can find the step-by-step guide here: [CLI Instructions Guide](https://github.com/MarcosMoreu/askphotos.earth/blob/main/CLI%20instructions.md). The GTD Generator app for Microsoft, macOS and Linux is not stable yet. Please use the CLI approach for now.
-* **Issue Reporting:** If you encounter any problems, please report them via the [GTD Generator Issues](https://github.com/MarcosMoreu/askphotos.earth/issues) tab. 
-* **Collaboration & Feedback:** If you would like to get involved, please get in touch using the [online contact form](https://askphotos.earth/pages/contact.html) or via email at [marcos.moreu@ucl.ac.uk](mailto:marcos.moreu@ucl.ac.uk).
+* **Instructions:** You can find the step-by-step guide here: [CLI Instructions Guide](https://github.com/askphotos-earth/Ground-Truth-Data-Generator/blob/main/CLI%20instructions.md). The GTD Generator app for Microsoft, macOS and Linux is not stable yet. Please use the CLI approach for now.
+* **Issue Reporting:** If you encounter any problems, please report them via the [GTD Generator Issues](https://github.com/askphotos-earth/Ground-Truth-Data-Generator/issues) tab. 
+* **Collaboration & Feedback:** If you would like to get involved, please get in touch using the [online contact form](https://askphotos.earth/pages/contact.html) or via email at [contact@askphotos.earth](mailto:contact@askphotos.earth).
 
 🔒 Privacy & Data Security. The technology and workflow are designed so that askphotos.earth does not have access to any of your/the crowd data. 
 
