@@ -11,7 +11,7 @@ You need the processing script and a list of links to begin.
 
 1. **Create a Folder:** Create a new folder on your computer named e.g. `AskPhotos`.
 2. **Save the Script:** Save the `generate_map_cli.py` file inside that folder. 
-https://github.com/MarcosMoreu/askphotos.earth/blob/main/generate_map_cli.py
+https://github.com/askphotos-earth/Ground-Truth-Data-Generator/blob/main/generate_map_cli.py
 3. **Prepare Your Links:** Create a csv or txt file in the same folder named `links.csv` or `links.txt`. The script will exclude any text inside the file except these URLs. For instance, you can upload a form responses in CSV format or a exported WhatsApp group chat in TXT format, and the GTD Generator will find the Google Photos URLs only.   
 
 ---
